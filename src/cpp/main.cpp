@@ -1,6 +1,6 @@
 /*
- * Author:
- * Date:
+ * Author: Akhmad Hurshetov
+ * Date:25.10
  */
 
 #include <iostream>
@@ -8,7 +8,7 @@
 
 int main() {
     std::cout << "Task 1" << std::endl;
-    // call for task 1
+    LeapYearDetective();
     std::cout << "Task 2" << std::endl;
     // call for task 2
     std::cout << "Task 3" << std::endl;
@@ -19,3 +19,5 @@ int main() {
     // call for task 5
     return 0;
 }
+
+
